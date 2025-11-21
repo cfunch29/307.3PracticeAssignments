@@ -22,7 +22,11 @@ fieldset {
     transform: translate(-50%,-50%);
 
     /* box shadow */
-    box-shadow: 8px 10px 10px 5px; 
+    box-shadow: 8px 8px 8px 1px; color: gray;
+
+    h1 {
+        color: black;
+    }
 }
 
 div {
